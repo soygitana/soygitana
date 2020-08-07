@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there, it's Paula!
 
-<!--
-**soygitana/soygitana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I code & solve problems. Currently, I work at [Lionbridge](https://www.lionbridge.com/) as a Engineer.<br>
+Oh and I'm in love with [React](https://pl.reactjs.org/) :fire:. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Toolbox
+
+
+<sub>JavaScript&nbsp;  |&nbsp;  React&nbsp;  |&nbsp;  Redux&nbsp;  |&nbsp;  TypeScript&nbsp;  |&nbsp;  jQuery&nbsp;  |&nbsp;  HTML&nbsp;  |&nbsp;  SASS&nbsp;  |&nbsp;  Bootstrap&nbsp;  |&nbsp;  HTML Canvas&nbsp;  |&nbsp;  Webpack&nbsp;  |&nbsp;  Gulp&nbsp;  |&nbsp;  Git&nbsp;  |&nbsp;  Photoshop&nbsp;</sub>
+
+<sub>Agile Methodologies&nbsp; |&nbsp; Scrum&nbsp; |&nbsp; Jira&nbsp; |&nbsp; Azure DevOps&nbsp;</sub>
+
+<br>
+
+[![Paula's github stats](https://github-readme-stats.vercel.app/api?username=soygitana)](https://github.com/soygitana/github-readme-stats)
