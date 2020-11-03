@@ -12,7 +12,7 @@ Oh and I'm in love with [React](https://pl.reactjs.org/) :fire:.
 
 <sub>Agile Methodologies&nbsp; |&nbsp; Scrum&nbsp; |&nbsp; Jira&nbsp; |&nbsp; Azure DevOps&nbsp;</sub>
 
-<sub>Globalization / Localization Engineering/sub>
+<sub>Globalization / Localization Engineering</sub>
 
 <br>
 
