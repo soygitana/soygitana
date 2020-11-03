@@ -12,6 +12,8 @@ Oh and I'm in love with [React](https://pl.reactjs.org/) :fire:.
 
 <sub>Agile Methodologies&nbsp; |&nbsp; Scrum&nbsp; |&nbsp; Jira&nbsp; |&nbsp; Azure DevOps&nbsp;</sub>
 
+Globalization / Localization Engineering
+
 <br>
 
 [![Paula's github stats](https://github-readme-stats.vercel.app/api?username=soygitana)](https://github.com/soygitana/github-readme-stats)
