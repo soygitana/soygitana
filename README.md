@@ -4,7 +4,6 @@ I code & solve problems. Currently, I work at [Lionbridge](https://www.lionbridg
 Oh and I'm in love with [React](https://pl.reactjs.org/) :fire:
 
 </br>
-</br>
 
 ## Toolbox 
 
