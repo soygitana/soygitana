@@ -2,7 +2,7 @@
 
 
 I code & solve problems. Currently, I work at [Lionbridge](https://www.lionbridge.com/) as a Software Engineer.<br>
-Oh and I'm in love with [React](https://pl.reactjs.org/)
+Oh and I'm in love with [React](https://pl.reactjs.org/) </br>
 <img src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" width="30" height="30" />
 
 
