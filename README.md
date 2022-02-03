@@ -1,7 +1,7 @@
 ## Hi there, it's Paula!
 
 I code & solve problems. Currently, I work at [Lionbridge](https://www.lionbridge.com/) as an Engineer.<br>
-Oh and I'm in love with [React](https://pl.reactjs.org/) :fire:
+Oh, and I'm in love with [React](https://pl.reactjs.org/) :fire:
 
 </br>
 
