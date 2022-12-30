@@ -1,8 +1,6 @@
 ## Hi there, it's Paula!
 
-I code & solve problems. Currently, I work at [Box](https://www.box.com/home) as Software Engineer.<br>
-Oh, and I'm in love with [React](https://pl.reactjs.org/) :fire:
-
+I code & solve problems. Currently, I work at [Box](https://www.box.com/home) as Software Engineer :cloud: .<br>
 </br>
 
 ## Toolbox 
