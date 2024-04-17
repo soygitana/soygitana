@@ -12,7 +12,3 @@ I code & solve problems. Currently, I work at [Box](https://www.box.com/home) as
 <sub>Globalization / Localization Engineering</sub>
 
 <br>
-
-[![Paula's github stats](https://github-readme-stats.vercel.app/api?username=soygitana)](https://github.com/soygitana/github-readme-stats)
-
-
